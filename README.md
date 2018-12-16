@@ -17,6 +17,7 @@ Notes： 在火車上吃早餐。
 
 寄存行李
 
+![Hakone Bagging Service](https://github.com/nluo/Japan-Hakone-Trip-Plan/blob/master/images/hakone-bagging-service.png)
 
 ### 11:45 - 13:45 Lunch@宮之下站 (Miyanoshita Station) 
 
