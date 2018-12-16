@@ -25,6 +25,12 @@ Notes： 在火車上吃早餐。
 
 至知名飯店經營的NARAYACAFE享用午餐。露台下的足湯是宮之下的人氣景點。 能品嚐到隨著季節變化的紅豆最中餅。 
 
+![NARAYACAFE](https://github.com/nluo/Japan-Hakone-Trip-Plan/blob/master/images/img_hakone_04.jpg)
+
+不妨在美麗景色的陪伴下享受一下足湯之樂吧！
+
+![foot path](https://github.com/nluo/Japan-Hakone-Trip-Plan/blob/master/images/img_hakone_05.jpg)
+
 
 ### 13:45 - 15:00 雕刻之森美術館 (The hakone Open Air Museum)
 
