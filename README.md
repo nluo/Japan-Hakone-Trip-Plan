@@ -2,6 +2,8 @@
 
 This is a 2 day travel plan on Hakone, Japan.
 
+![Hakone Overview](https://github.com/nluo/Japan-Hakone-Trip-Plan/blob/master/images/hakone-overview.png)
+
 ## Day 1
 
 ### 10:00 – 11:15 新宿出發
