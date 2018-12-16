@@ -1,6 +1,6 @@
-# Japane-Hakone-Trip
-Japane Hakone Trip
+# Japan-Hakone-Trip
 
+This is a 2 day travel plan on Hakone, Japan.
 
 ## Day 1
 
