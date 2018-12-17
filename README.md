@@ -52,6 +52,8 @@ Notes： 在火車上吃早餐。
 
 可欣賞強羅街景及箱根外輪山全景，晴天還能看到相模灣的景色。 在大湧谷下車，請記得品嚐黑雞蛋特產喔。
 
+![Souzan View](https://github.com/nluo/Japan-Hakone-Trip-Plan/blob/master/images/img_hakone2days_15.jpg)
+![黑雞蛋](https://github.com/nluo/Japan-Hakone-Trip-Plan/blob/master/images/img_hakone_11-2.jpg)
 
 ### 16:00 - 16:30 桃源台
 
